@@ -18,7 +18,7 @@ A procedural and customizable tree generator for the TIC80 fantasy computer
 
 ![shift-step](https://github.com/archaicvirus/TreeGenerator/assets/25288625/bf1af58b-2225-472a-b27c-335ace92fac8)
 
-- Sprite Id - The sprite id use for the mesh fill algorithm - (used in the trunk and branch texture)
+- Sprite Id - The sprite id used for the mesh fill algorithm - (used in the trunk and branch texture)
 
 ![sprite_id](https://github.com/archaicvirus/TreeGenerator/assets/25288625/a7943595-8e94-4459-b9ff-491ced8b7075)
 
@@ -26,15 +26,15 @@ A procedural and customizable tree generator for the TIC80 fantasy computer
 
 ![sprite_ids](https://github.com/archaicvirus/TreeGenerator/assets/25288625/fa5d4f02-e25e-447b-ab45-2a890a9c298a)
 
-- Branch Length - The total overal (average) length in pixels of each branch
+- Branch Length - The total overall (average) length in pixels of each branch
 
 ![branch_length](https://github.com/archaicvirus/TreeGenerator/assets/25288625/52e4371d-fd21-4a64-9c60-21b0bb75a278)
 
-- Branch Width - The width in pixel of each branch segment as the branch frows outwards (higher values lead to straighter branches)
+- Branch Width - The width in pixel of each branch segment as the branch grows outwards (higher values lead to straighter branches)
 
 ![branch_width](https://github.com/archaicvirus/TreeGenerator/assets/25288625/abe6cda4-3f12-49d3-8c97-4e1adae84104)
 
-- Branch Thickness - The height in pixels of each horizontal branch segment, as the segments 'grows' outwards
+- Branch Thickness - The height in pixels of each horizontal branch segment, as the segments 'grow' outwards
 
 ![branch_thickness](https://github.com/archaicvirus/TreeGenerator/assets/25288625/e9b2250a-818a-4db4-a711-355c55b21b35)
 
