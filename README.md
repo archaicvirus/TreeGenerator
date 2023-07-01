@@ -9,7 +9,6 @@ A procedural and customizable tree generator for the TIC80 fantasy computer.
 - [Step Height](#step-height)
 - [Shift/Step](#shiftstep)
 - [Sprite Id](#sprite-id)
-- [Sprite id's](#sprite-ids)
 - [Branch Length](#branch-length)
 - [Branch Width](#branch-width)
 - [Branch Thickness](#branch-thickness)
@@ -59,9 +58,7 @@ Trunk & Branch texture. The sprite id used for the mesh fill algorithm
 
 ![sprite_id](https://github.com/archaicvirus/TreeGenerator/assets/25288625/a7943595-8e94-4459-b9ff-491ced8b7075)
 
-### Sprite id's
-
-Sprite id's 0-15 (the top row of tiles) can be selected to change the tree's texture. These can be customized in the sprite editor to your liking
+- Sprite id's 0-15 (the top row of tiles) can be selected to change the tree's texture. These can be customized in the sprite editor to your liking
 
 ![sprite_ids](https://github.com/archaicvirus/TreeGenerator/assets/25288625/fa5d4f02-e25e-447b-ab45-2a890a9c298a)
 
