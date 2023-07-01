@@ -1,6 +1,7 @@
 # TreeGenerator
 A procedural and customizable tree generator for the TIC80 fantasy computer.  
-- Can be run in the web console [here](https://tic80.com/play?cart=3424)  
+- Can be run in the web console [here](https://tic80.com/play?cart=3424)
+- See the releases tab to the right, for native windows, mac, linux, and html versions
 
 ![TreeGenerator](https://github.com/archaicvirus/TreeGenerator/assets/25288625/e8c023ad-99f2-480b-8809-5045c3036e8a)
 
