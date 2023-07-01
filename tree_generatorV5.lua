@@ -664,7 +664,7 @@ function draw_tree()
   end
   --draw foreground leaves last
   for k, v in ipairs(tree.branches) do
-    for i, j in ipairs(v.leaves[1]) do
+    for i, j in ipairs(v.leaves[2]) do
       if i <= leaf_cull_distance then
         spr(16 + j.id, j.x, j.y, 1, 1)
       end
