@@ -11,7 +11,7 @@ A procedural and customizable tree generator for the TIC80 fantasy computer.
 
 ![trunk_height](https://github.com/archaicvirus/TreeGenerator/assets/25288625/bd3e1e89-4b7b-4d4c-abbf-42ba5b31c5a4)
 
-- Step Height - The height in pixels of each vertical trunk segment
+- Step Height - The height in pixels of each vertical trunk segment (Does not affect overall height)
 
 ![step_height](https://github.com/archaicvirus/TreeGenerator/assets/25288625/ea9f9d65-8430-401d-945f-2f3a48e6c348)
 
