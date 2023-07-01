@@ -6,7 +6,7 @@ A procedural and customizable tree generator for the TIC80 fantasy computer
 
  ![trunk_width](https://github.com/archaicvirus/TreeGenerator/assets/25288625/8c16fa2c-d290-4ab7-be37-b94f9f736000)
 
-- Trunk Height - The total height of the combined strunk segments
+- Trunk Height - The total height of the combined trunk segments
 
 ![trunk_height](https://github.com/archaicvirus/TreeGenerator/assets/25288625/bd3e1e89-4b7b-4d4c-abbf-42ba5b31c5a4)
 
