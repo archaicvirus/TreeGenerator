@@ -52,7 +52,7 @@ A procedural and customizable tree generator for the TIC80 fantasy computer.
 
 ![total_branches](https://github.com/archaicvirus/TreeGenerator/assets/25288625/8372995c-02ad-4164-b928-23780cf35ad2)
 
-- Branch Deviation - The relative offset between branches, scaled based on number of branches and offset branch height parameter
+- Branch Deviation - The relative offset between branches, scaled based on number of branches and offset by the branch height parameter
 
 ![branch_deviation](https://github.com/archaicvirus/TreeGenerator/assets/25288625/4b94daf7-7875-4be7-a94a-ee7e027ff3c5)
 
