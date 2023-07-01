@@ -1,5 +1,6 @@
 # TreeGenerator
-A procedural and customizable tree generator for the TIC80 fantasy computer
+A procedural and customizable tree generator for the TIC80 fantasy computer.  
+- Can be run in the web console here: https://tic80.com/play?cart=3424
 
 # Settings
 - Trunk Width - The width in pixels of the main trunk
