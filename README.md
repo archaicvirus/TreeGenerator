@@ -92,7 +92,7 @@ A procedural and customizable tree generator for the TIC80 fantasy computer.
 
 ![save_x_y](https://github.com/archaicvirus/TreeGenerator/assets/25288625/253c63f0-c4bf-4166-926d-025f62fc10cf)
 
-- Save ID - Ranged 0 - 511 - The tile/sprite id to paste the copied rectangle. Keep in mind if the id is positioned near the border in the sprite editor, the copried tiles won't retain their original order
+- Save ID - Ranged 0 - 511 - The tile/sprite id to paste the copied rectangle. Keep in mind if the id is positioned near the border in the sprite editor, the copied tiles won't retain their original order
  
 ![save_id](https://github.com/archaicvirus/TreeGenerator/assets/25288625/0bd238ca-a901-494b-8fa8-16c0e5d50803)
 
