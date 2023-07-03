@@ -2,7 +2,7 @@
 -- author:  ArchaicVirus
 -- desc:    Procedural tree generator
 -- site:    https://github.com/archaicvirus
--- license: MIT License
+-- license: GPLV3
 -- version: 3
 -- script:  lua
 
