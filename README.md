@@ -4,7 +4,7 @@
 
 
 A procedural and customizable tree generator for the TIC80 fantasy computer.  
-- Can be run in the web console [here](https://tic80.com/play?cart=3424)
+- Can be run in the web player [here](https://tic80.com/play?cart=3424)
 - See the [releases](https://github.com/archaicvirus/TreeGenerator/releases) page for native windows, mac, linux, and html versions
 
 
