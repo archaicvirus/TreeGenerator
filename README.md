@@ -7,7 +7,7 @@ A procedural and customizable tree generator for the TIC80 fantasy computer.
 - Can be run in the web player [here](https://tic80.com/play?cart=3424)
 - Also available on itch https://archaicvirus.itch.io/procedural-tree-generator
 - See the [releases](https://github.com/archaicvirus/TreeGenerator/releases) page for native windows, mac, linux, and html versions.
-*html version has some bugs being working on, avoid using for now
+*html version has some bugs being worked on, avoid using for now
 
 
 ## Settings
